@@ -1,0 +1,60 @@
+
+body{background:#ffa500;
+	font-size: 14px; 
+	 font-family:Arial;
+	 padding:;
+	 text-align:left; }
+
+h1{text-align: center;
+   color: black;
+   font-size:35px;
+   text-shadow:1.5px 1px 1px rgba(0,0,0,0.5);}
+   
+hr{border: 1px solid #800000;}
+
+p{color: red;
+  text-align: center;
+  padding-left: 6cm;}
+
+form{width: 40%;
+	 margin: 0 auto;
+	 padding:5%;
+	 }
+	 
+form fieldset{color:#000000; 
+			  font-size: 16px;
+			  border: 2px solid #800000;
+			  border-radius: 10px;}
+			  
+form fieldset legend{background:#800000;
+					 color: white;
+					 border-radius:10px;
+					 font-weight: bold;
+					 padding: 1%;
+					 }
+
+form label {font-size: 14px; 
+			color:#000000; 
+			display:inline-block; 
+			width:40%; 
+			padding: 5px;}
+
+
+			
+input[type=file]{background: #2E9AFE;
+				 padding-bottom:0.2cm;
+				 color: black;
+				 padding-top: 3%;
+				 width:56%;
+				 }
+
+input[type=color], input[type=date], input[type=text]{width:54%;}
+
+select{width:55%;
+	   font-size:16px;}
+				 
+input[type=submit], input[type=reset]{background:#800000;color: white;
+									  border-radius:10px;}
+span{color:#FF0000}
+
+footer{text-align: center;}

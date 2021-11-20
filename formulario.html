@@ -1,0 +1,61 @@
+<head>
+		<title>Contactanos</title>
+		<meta charset="utf-8"/>
+		<meta name="descripcion" content="Formulario Contactanos"/>
+		<meta name="keywords" content="Pagina que contiene formulario">
+		<link rel="shortcut icon" type="image/x-icon" href="images/.png"/>
+		<link rel="stylesheet"  href="css/estilo1.css"/>
+		
+	</head>
+	<body>
+		<div>
+			<header>
+				<h1>Contactanos</h1>
+				<hr></hr>				
+				<p><span>*</span>Campos Obligatorios.</p>
+			</header>	
+		</div>
+		
+		<section>
+			<article>
+				<form id="formulario" name="formulario" method="POST" action="contacto.php">
+					<fieldset>
+						<legend>Enviar Comentarios</legend>
+							<label for="nombre"><span>*</span>Nombre(s):</label>
+							<input type="text" name="nombre" placeholder="Ingrese sus nombres" maxlength="40" required autofocus/>
+							
+							<label for="apellidos"><span>*</span>Apellido(s):</label>
+							<input type="text" name="apellidos" placeholder="Ingrese sus apellidos" maxlength="40" required autofocus/>
+																					
+							<label for="email"><span>*</span>Email:</label>
+							<input type="text" name="email" placeholder="ejemplo@correo.com" maxlength="40" required autofocus/>	
+							
+							<label for="asunto"><span>*</span>Asunto:</label>
+							<input type="text" name="asunto" placeholder="Ingrese el asunto" maxlength="40" required autofocus/>
+							
+							<label for="comentarios"><span>*</span>Comentarios:</label>
+							<textarea name= "comentarios" placeholder="Escriba su mensaje" required></textarea>
+									
+							<br>
+							<br>
+						
+						<input type="reset"value="Limpiar"/> 
+						<input type="submit"value="Enviar" onclick="alert('Mensaje Enviado')"/>
+					</fieldset>
+				</form>
+			</article>
+		</section>		
+		<footer>
+			
+			<h5>Visitanos en:</h5>
+			<br>
+			<cite>Todos los derechos reservados</cite>
+			<br>
+			<cite><a href="https://9145-mx.all.biz/" title="">www.productoslechealdama.com</a></cite>
+			<br>		
+			<br>		
+			<b>Regresar:</b><a href="index.html"> Presiona aqui</a>
+		</footer>
+
+		
+	</body>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # "Productos de Leche Aldama"
 **Project description**
 
@@ -17,3 +18,6 @@ The *Contact* page shows:
 
 - From where you request the name, subject and a description area using text fields 
 - Send button that when pressing saves in DB the data entered by the user also displays a message with JavaScript indicating "Message Sent"
+=======
+
+>>>>>>> 2c6ff8738fd5efcb92602ad796144af7311a7f83

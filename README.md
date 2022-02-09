@@ -1,7 +1,7 @@
 # "Productos de Leche Aldama"
 **Project description**
 
-Development of a web page containing three links: *About, Gallery and Contact.* They contain a basic structure: **HTML5** (header, nav section, article and footer) and **CSS. **
+Development of a web page containing three links: *About, Gallery and Contact.* They contain a basic structure: **HTML5** (header, nav section, article and footer) and **CSS**
 
 The *About* page displays the following items:
 

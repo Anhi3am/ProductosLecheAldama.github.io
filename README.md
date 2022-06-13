@@ -1,6 +1,6 @@
 # "Productos de Leche Aldama"
 **Project description**
-[Productos de Leche Aldama]([http://localhost/](https://anhi3am.github.io/ProductosLecheAldama.github.io/))
+[Productos de Leche Aldama](https://anhi3am.github.io/ProductosLecheAldama.github.io/)
 
 Development of a web page containing three links: *About, Gallery and Contact.* They contain a basic structure: **HTML5** (header, nav section, article and footer) and **CSS**
 

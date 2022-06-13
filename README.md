@@ -11,7 +11,7 @@ The *About* page displays the following items:
 
 The *Gallery* page shows:
 
-- 5 images and clicking on it indicates the name of the image using JavaScript
+- 5 images and clicking on it indicates the name of the image using *CSS*
 
 The *Contact* page shows:
 
